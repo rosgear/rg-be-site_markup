@@ -1,0 +1,26 @@
+{
+    "name": "rosgear/rg-be-site_markup",
+    "description": "Module \"Visual editor\" for the GePanel Control Panel",
+    "keywords": ["rosgear", "gepanel", "module"],
+    "homepage": "https://rosgear.ru/component/rg-be-site_markup/",
+    "type": "component",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Anton Tivonenko",
+            "email": "anton.tivonenko@gmail.com",
+            "homepage": "https://rosgear.ru/"
+        }
+    ],
+    "require": {
+        "rosgear/ge2-composer-plugin": "*"
+    },
+    "extra": {
+        "ge": {
+            "id": "rg.be.site_markup",
+            "vendor": "ge"
+        }
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
+}
