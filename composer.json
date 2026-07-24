@@ -18,7 +18,7 @@
     "extra": {
         "ge": {
             "id": "rg.be.site_markup",
-            "vendor": "ge"
+            "vendor": "rg"
         }
     },
     "minimum-stability": "dev",
